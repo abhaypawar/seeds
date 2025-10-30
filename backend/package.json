@@ -1,0 +1,9 @@
+{
+    "name": "retention-backend",
+    "version": "1.0.0",
+    "dependencies": {
+      "aws-sdk": "^2.1400.0",
+      "uuid": "^9.0.0"
+    }
+  }
+  
